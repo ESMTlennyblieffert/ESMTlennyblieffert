@@ -5,7 +5,7 @@
 ---
 
 ## 👨‍💻 Introduction
-[cite_start]I am a Master in Analytics & AI student [cite: 6] [cite_start]at ESMT Berlin[cite: 36]. [cite_start]With a Bachelor’s degree in Business Administration from Humboldt University of Berlin [cite: 36][cite_start], I have developed a strong foundation in data analysis, IT governance, and process optimization[cite: 6]. [cite_start]My academic work includes an in-depth analysis of Algorithmic Fairness in Large Language Models[cite: 10].
+[cite_start]I am a Master in Analytics & AI student [cite_start]at ESMT Berlin[cite: 36]. [cite_start]With a Bachelor’s degree in Business Administration from Humboldt University of Berlin [cite: 36][cite_start], I have developed a strong foundation in data analysis, IT governance, and process optimization[cite: 6]. [cite_start]My academic work includes an in-depth analysis of Algorithmic Fairness in Large Language Models[cite: 10].
 
 * [cite_start]🎓 **Education:** Master in Analytics and Artificial Intelligence (2025–2027)[cite: 36].
 * [cite_start]🏫 **Background:** Bachelor in Business Administration, Grade 1.3[cite: 10, 36].
