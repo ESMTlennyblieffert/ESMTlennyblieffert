@@ -1,4 +1,4 @@
-# Hi there! I'm Lenny Finn Blieffert 👋
+# Hi there! I'm Lenny Blieffert 👋
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-C077E5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lennyblieffert)
 
